@@ -1,6 +1,7 @@
 {
   "orgName": "alapati company",
   "edition": "Developer",
+  "description": "This org is for learning",
   "hasSampleData": "false",
   "features": ["EnableSetPasswordInApi"],
   "settings": {
